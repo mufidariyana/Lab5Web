@@ -162,5 +162,7 @@ define('DB_NAME', 'latihan1');
 ?>
 ```
 ### Agar tampilan lebih menarik kita menabahkan file dengan nama form.css
+>berikut adalah tampilan
+<img src="./ss/sss.png" style="margin: auto; width:400px;">
 
 Terimakasih :)
